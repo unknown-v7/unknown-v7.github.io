@@ -13,10 +13,10 @@
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url    : "http://unknown-v7.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "armyforever/blog" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
+title      : 芜湖起飞
 email      : 3300371498@qq.com
 description: "Site description"
 author     : Yuan Jiayi
